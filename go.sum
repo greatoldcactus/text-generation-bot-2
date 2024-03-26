@@ -1,0 +1,12 @@
+github.com/Syfaro/telegram-bot-api v4.6.4+incompatible h1:O30CgxZ/BuHpWfONoGirTIU7XUWhz6NPelk80FxipDI=
+github.com/Syfaro/telegram-bot-api v4.6.4+incompatible/go.mod h1:eC/lEGT3gOB9RowMYsLx0YH1U8a/dEjceHY3M//ej88=
+github.com/greatoldcactus/text-generation-ollama-api v0.0.0-20240325201843-65346571ccde h1:GQOU3aHDf8+9u6tZ/vOjYQRIcbqbDqrhdLXz0jotKSY=
+github.com/greatoldcactus/text-generation-ollama-api v0.0.0-20240325201843-65346571ccde/go.mod h1:hmR0Ud0SmMMW5wnED2ZAIp1pk4XuitbIDGo3KAONoAM=
+github.com/greatoldcactus/text-generation-ollama-api v0.0.0-20240326132830-6c9a3d08b922 h1:UmL6+K7WXvLCUTNVtWxG++ojzz9rI4S1xKadqZvPXfc=
+github.com/greatoldcactus/text-generation-ollama-api v0.0.0-20240326132830-6c9a3d08b922/go.mod h1:eP/Cf8K3s+xydj2tUZPRBAlh3s/Z++Pxc5IQTnoeZmY=
+github.com/greatoldcactus/textgenerationapi v0.0.0-20240325201305-c91a1d8906d8 h1:ZeQHEfPek1e+d2sxCppRMaLkLm7Tf6O0BN8BM9+r9Kk=
+github.com/greatoldcactus/textgenerationapi v0.0.0-20240325201305-c91a1d8906d8/go.mod h1:BZS+26w24pqn3L441BrNF8H0a0sPO66nVvZSmeudfRQ=
+github.com/greatoldcactus/textgenerationapi v0.0.0-20240326125645-ce25889209da h1:8+5ihDoPZ0z5gkr+GccwoGdy/ct9hiTtTItD1K2G++s=
+github.com/greatoldcactus/textgenerationapi v0.0.0-20240326125645-ce25889209da/go.mod h1:BZS+26w24pqn3L441BrNF8H0a0sPO66nVvZSmeudfRQ=
+github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
+github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6MDx5eUJoiEBsSvzDU9uzog=
